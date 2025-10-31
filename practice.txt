@@ -6,3 +6,4 @@ Message from feature1
 Test data
 Message from feature2
 Test data
+Message from feature1
